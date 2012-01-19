@@ -1,0 +1,5 @@
+Changelog for AnchorMan.
+
+AnchorMan 1.0.0-beta (January 19, 2012)
+====================================
+- Initial release.
